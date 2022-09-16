@@ -114,7 +114,7 @@ section ul li:hover {
 .channel-list img {
     width: 70px;
     border-radius: 50%;
-    border: 1px solid rgb(208, 91, 255);
+    border: 1px solid rgb(58, 58, 58);
 }
 
 svg {
