@@ -16,8 +16,6 @@ Projeto construí no evento Next Level Week - Rocketseat.
 -   Git
 -   Github - deploy Github Pages
 
-<hr>
-
 ## Contato
 
 <a href="https://www.linkedin.com/in/mnsjr/" target="_blank">🔗 Linkedin</a>
