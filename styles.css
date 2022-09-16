@@ -27,6 +27,13 @@ header {
     height: 120px;
 }
 
+header h1 {
+    display: flex;
+    color: #fff;
+    margin-left: 24px;
+    align-items: center;
+}
+
 header div {
     width: 120px;
     margin: auto;
